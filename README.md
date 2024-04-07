@@ -1,1 +1,1 @@
-Preubas de primer repositorio
+Pruebas de primer repositorio
